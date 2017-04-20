@@ -1,0 +1,22 @@
+{
+  "name": "node-api",
+  "version": "0.9.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginoferretti/node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ginoferretti/node/issues"
+  },
+  "homepage": "https://github.com/ginoferretti/node#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
